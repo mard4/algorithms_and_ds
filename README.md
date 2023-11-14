@@ -18,3 +18,11 @@
 ## Currently Working on
 2. Sorting Algorithms
 6. Algorithms Techniques
+
+## Exporting the Work in pdf/html
+It is possible using Jupyter Notebook, through the "Export" command
+
+- Visual Studio Code
+Click the three dots --> Export
+- Jupyter Notebook
+Click on File --> Download as..
