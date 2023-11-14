@@ -18,11 +18,11 @@
 ![Alt text](/img/image.png)
 
 ### Finished Work
-1. Algorithm Analysis: asymptotic notations
-6. Algorithms Techniques: divide-et-impera, dynamic programming and others
+- (1) Algorithm Analysis: asymptotic notations
+- (6) Algorithms Techniques: recursion, divide-et-impera, dynamic programming and binary search
 
 ## Currently Working on
-2. Sorting Algorithms
+- (2) Sorting Algorithms: selection sort, quick sort
 
 ## Exporting the Work in pdf/html
 It is possible using Jupyter Notebook, through the "Export" command
