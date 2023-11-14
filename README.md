@@ -10,7 +10,7 @@
 - Grookins: An illustrated guide for programmers and other
 
 ## Programme
-![Alt text](image.png)
+![Alt text](/img/image.png)
 
 ### Finished Work
 1. Algorithm Analysis: asymptotic notations
