@@ -26,9 +26,10 @@ I'm using Agarwal book for the theory while the Grookins book to get the algorit
 #### Finished Work
 - (1) Algorithm Analysis: asymptotic notations
 - (6) Algorithms Techniques: recursion, divide-et-impera, dynamic programming and binary search
+- (2) Sorting Algorithms: merge sort, insertion sort, <u>selection sort, quick sort </u>
 
 #### Currently Working on
-- (2) Sorting Algorithms: merge sort, insertion sort, <u>selection sort, quick sort </u>
+- (3) Data Structures: sequence, maps, sets, stack, queue </u>
 
 ## Exporting the Work in pdf/html
 It is possible to export the notebooks in pdf or html files using Jupyter Notebook, through the "Export" command
