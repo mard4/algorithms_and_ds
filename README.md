@@ -1,10 +1,14 @@
-# algorithms_and_ds
+# Data Structures and Algorithms resources
+
+I created this repository to share the notebooks I made while studying Data Structures and Algorithms at Università di Trento. 
+
+I'm using Agarwal book for the theory while the Grookins book to get the algorithms intuition, atm I'm not integrating slides from the professor.
 
 ## Prerequisites
-- Jupyter Notebook
-- Jupyter extension on Visual studio Code
+- <b>Mandatory</b>: Jupyter Notebook or Jupyter extension on Visual studio Code
+- <b>Recommended</b>: Install Git to get updates daily. Clone the repository and run "git fetch" periodicaly
 
-## Folders
+## Structure
 - notes (ipynb files in the main folder) these are the notes
 - books: containing the books I have used for the notebooks
 - img: containing all the images in the notebooks (not useful)
@@ -17,17 +21,17 @@
 ## Programme
 ![Alt text](/img/image.png)
 
-### Finished Work
+
+## Work
+#### Finished Work
 - (1) Algorithm Analysis: asymptotic notations
 - (6) Algorithms Techniques: recursion, divide-et-impera, dynamic programming and binary search
 
-## Currently Working on
-- (2) Sorting Algorithms: selection sort, quick sort
+#### Currently Working on
+- (2) Sorting Algorithms: merge sort, insertion sort, <u>selection sort, quick sort </u>
 
 ## Exporting the Work in pdf/html
-It is possible using Jupyter Notebook, through the "Export" command
+It is possible to export the notebooks in pdf or html files using Jupyter Notebook, through the "Export" command
 
-- Visual Studio Code
-Click the three dots --> Export
-- Jupyter Notebook
-Click on File --> Download as..
+- Visual Studio Code: Click the three dots on the upped command bar (next to Outline) --> Export
+- Jupyter Notebook: Click on File --> Download as..
