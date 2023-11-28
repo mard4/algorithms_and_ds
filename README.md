@@ -6,7 +6,7 @@ I'm using Agarwal book for the theory while the Grookins book to get the algorit
 
 ## Prerequisites
 - <b>Mandatory</b>: Jupyter Notebook or Jupyter extension on Visual studio Code
-- <b>Recommended</b>: Install Git to get updates daily. Clone the repository and run "git fetch" periodicaly
+- <b>Recommended</b>: Install Git to get updates daily. Clone the repository and run "git fetch / git pull" periodicaly
 
 ## Structure
 - notes (ipynb files in the main folder) these are the notes
