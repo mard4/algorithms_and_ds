@@ -2,7 +2,9 @@
 
 I created this repository to share the notebooks I made while studying Data Structures and Algorithms at Università di Trento. 
 
-I'm using Agarwal book for the theory while the Grookins book to get the algorithms intuition and integrating slides from the professor (for the DS module).
+I'm using Agarwal book for the theory while the Grookins book to get the algorithms intuition and integrating slides from the professor (for the DS module)
+
+[Userful roadmap for exercises](https://neetcode.io/roadmap)
 
 ## Prerequisites
 - <b>Mandatory</b>: Jupyter Notebook or Jupyter extension on Visual studio Code
