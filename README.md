@@ -20,7 +20,7 @@ I'm using Agarwal book for the theory while the Grookins book to get the algorit
 - Grookins: An illustrated guide for programmers and other
 
 ## Programme
-![Alt text](/img/image.png)
+![Alt text](/img/img.png)
 
 
 ## Work
@@ -29,14 +29,12 @@ I'm using Agarwal book for the theory while the Grookins book to get the algorit
 - (6) Algorithms Techniques: recursion, divide-et-impera, dynamic programming and binary search
 - (2) Sorting Algorithms: merge sort, insertion sort, selection sort, quick sort
 - (3) Data Structures: sequence, maps, sets, stack, queue, hashmaps
-
+- (4) Trees
 
 #### To finish
-- counting sort, circular lists
-- exercises lab 5-6
+- lab. 6
 
 #### Next to add
-- (4) Trees
 - (5) Graphs
 
 ## Exporting the Work in pdf/html
