@@ -8,7 +8,7 @@ I'm using Agarwal book for the theory while the Grookins book to get the algorit
 
 ## Prerequisites
 - <b>Mandatory</b>: Jupyter Notebook or Jupyter extension on Visual studio Code
-- <b>Recommended</b>: Install Git to get updates daily. Clone the repository and run "git fetch / git pull" periodicaly
+- <b>Recommended</b>: Clone the repository
 
 ## Structure
 - notes (ipynb files in the main folder) these are the notes
@@ -24,19 +24,12 @@ I'm using Agarwal book for the theory while the Grookins book to get the algorit
 ## Programme
 ![Alt text](/img/img.png)
 
-
-## Work
 #### Finished Work
 - (1) Algorithm Analysis: asymptotic notations
 - (6) Algorithms Techniques: recursion, divide-et-impera, dynamic programming and binary search
 - (2) Sorting Algorithms: merge sort, insertion sort, selection sort, quick sort
 - (3) Data Structures: sequence, maps, sets, stack, queue, hashmaps
 - (4) Trees
-
-#### To finish
-- lab. 6
-
-#### Next to add
 - (5) Graphs
 
 ## Exporting the Work in pdf/html
